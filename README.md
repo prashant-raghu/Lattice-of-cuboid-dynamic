@@ -1,4 +1,4 @@
-# Lattice-of-cuboid-dynamic
+# Lattice-of-cuboid
 Dynamic version of web based lattice of cuboid implementation. Uses Cytoscape for graphing purposes.
 ![alt text](images/3.JPG)
 ![alt text](images/4.JPG)
